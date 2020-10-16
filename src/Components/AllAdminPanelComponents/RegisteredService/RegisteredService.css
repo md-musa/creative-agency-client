@@ -1,0 +1,7 @@
+.regsitered-client-services {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  background: #f0f2f5;
+}

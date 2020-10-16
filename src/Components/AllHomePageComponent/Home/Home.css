@@ -1,0 +1,44 @@
+.btn-brand {
+  height: 45px;
+  width: 170px;
+  left: 135px;
+  top: 525px;
+  border-radius: 5px;
+  background-color: #111430;
+  color: white;
+}
+.header-section img {
+  /* height: 60%; */
+  width: 80%;
+}
+.homeContainer {
+  background-color: white;
+}
+.header-section {
+  height: 700px;
+  width: 100%;
+  background-color: #fbd062;
+  border: solid 1px;
+}
+.align-cen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.color-brand {
+  color: #111430;
+}
+.colorGreen {
+  color: #7ab259;
+}
+.heading {
+  text-align: center;
+  margin: 60px 0;
+}
+.color-gray {
+  color: rgb(141, 139, 139);
+}
+.link-out {
+  text-decoration: none;
+  color: rgb(155, 151, 151);
+}

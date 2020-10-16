@@ -1,0 +1,46 @@
+.registeredService {
+  height: 180px;
+  width: 45%;
+  padding: 10px 30px;
+  margin-right: 5px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
+  margin: 12px;
+  padding: 30px 20px;
+}
+.btn-done {
+  width: 90px;
+  background: #d2f5e3;
+  border: none;
+  height: 35px;
+  border-radius: 4px;
+  color: #009444;
+  font-size: 15px;
+  cursor: pointer;
+}
+.btn-ongoing {
+  width: 90px;
+  background: #ff98000d;
+  border: none;
+  height: 35px;
+  border-radius: 4px;
+  color: #ffc800;
+  font-size: 15px;
+  cursor: pointer;
+}
+.btn-pendding {
+  width: 90px;
+  background: #ffe3e3;
+  border: none;
+  height: 35px;
+  border-radius: 4px;
+  color: #ff4545;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.first-row {
+  display: flex;
+  justify-content: space-between;
+}

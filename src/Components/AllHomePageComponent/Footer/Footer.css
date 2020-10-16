@@ -1,0 +1,16 @@
+.footer {
+  height: 500px;
+  width: 100%;
+  background: #fbd062;
+  padding: 30px;
+  margin-top: 20px;
+}
+.input-field {
+  font-size: 17px;
+  padding: 14px 16px;
+  width: 400px;
+  border: 1px solid #dddfe2;
+  color: #1d2129;
+  border-radius: 6px;
+  margin: 10px;
+}

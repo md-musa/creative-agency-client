@@ -1,0 +1,17 @@
+body {
+  background: #f0f2f5;
+}
+.services-card {
+  box-shadow: 0px 0px 46px -4px #eaeaea;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 25px;
+  background: white;
+  border-radius: 2px;
+}
+.link-remove {
+  text-decoration: none;
+}
